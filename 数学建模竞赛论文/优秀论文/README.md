@@ -1,3 +1,0 @@
-- **优秀论文为网上公开展示样本**：
-  - `2024优秀论文1.pdf`、`2024优秀论文2.pdf`、`2024优秀论文3.pdf`、`2024优秀论文4.pdf` 选自 [2024 全国大学生数学建模竞赛论文展示](https://dxs.moe.gov.cn/zx/hd/sxjm/sxjmlw/2024qgdxssxjmjslwzs/)；
-  - `2025优秀论文1.pdf` 选自 [2025 全国大学生数学建模竞赛论文展示](https://dxs.moe.gov.cn/zx/hd/sxjm/sxjmlw/2025qgdxssxjmjslwzs/)。
